@@ -1,4 +1,4 @@
-Zomato HTML and CSS Page Project :
+Zomato Home Page :
 
       Welcome to the Zomato HTML and CSS Page Project! In this project, you will create a web page inspired by the design and layout of Zomato, a popular online food delivery platform. Your task is to replicate the appearance and functionality of a Zomato restaurant listing page using HTML for structure and CSS for styling.
 
